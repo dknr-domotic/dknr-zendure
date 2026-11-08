@@ -2,8 +2,8 @@
 
 [![Release](https://img.shields.io/docker/v/jcpd/dknr-zendure?sort=semver)](https://img.shields.io/docker/v/jcpd/dknr-zendure?sort=semver)
 [![Pull](https://img.shields.io/docker/pulls/jcpd/dknr-zendure)](https://img.shields.io/docker/pulls/jcpd/dknr-zendure)
-[![Issue](https://img.shields.io/github/issues/jcdenis/dknr-zendure)](https://img.shields.io/github/issues/jcdenis/dknr-zendure)
-[![License](https://img.shields.io/github/license/jcdenis/dknr-zendure)](https://github.com/JcDenis/dknr-zendure/blob/master/LICENSE)
+[![Issue](https://img.shields.io/github/issues/dknr-domotic/dknr-zendure)](https://img.shields.io/github/issues/dknr-domotic/dknr-zendure)
+[![License](https://img.shields.io/github/license/dknr-domotic/dknr-zendure)](https://github.com/dknr-domotic/dknr-zendure/blob/master/LICENSE)
 
 
 ## A propos
@@ -75,12 +75,12 @@ Les compteurs sont conservés au redémarrage de Node-RED. L'énergie n'est pas 
 
 ## Contribuer
 
-Ce projet est **open-source**, vous pouvez participer en créant des [tickets](https://github.com/JcDenis/dknr-zendure/issues) ou en proposant de [requêtes](https://github.com/JcDenis/dknr-zendure/pulls) sur le dépôt github du projet.
+Ce projet est **open-source**, vous pouvez participer en créant des [tickets](https://github.com/dknr-domotic/dknr-zendure/issues) ou en proposant de [requêtes](https://github.com/dknr-domotic/dknr-zendure/pulls) sur le dépôt github du projet.
 
 
 ## Voir aussi
 
-- [DKNR Teleinfo](https://github.com/JcDenis/dknr-teleinfo)
-- [DKNR APSystems](https://github.com/JcDenis/dknr-apsystems)
-- [DKNR Zendure](https://github.com/JcDenis/dknr-zendure)
-- [DKNR Daikin](https://github.com/JcDenis/dknr-daikin)
+- [DKNR Teleinfo](https://github.com/dknr-domotic/dknr-teleinfo)
+- [DKNR APSystems](https://github.com/dknr-domotic/dknr-apsystems)
+- [DKNR Zendure](https://github.com/dknr-domotic/dknr-zendure)
+- [DKNR Daikin](https://github.com/dknr-domotic/dknr-daikin)
